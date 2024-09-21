@@ -1,0 +1,13 @@
+*.pkl
+__pycache__/
+
+# Ignorar entorno virtual
+venv/
+env/
+
+# Ignorar archivos de logs y variables de entorno
+*.log
+*.env
+
+# Ignorar checkpoints de Jupyter Notebooks
+.ipynb_checkpoints/

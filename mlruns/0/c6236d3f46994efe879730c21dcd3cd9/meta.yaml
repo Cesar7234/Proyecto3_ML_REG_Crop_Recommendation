@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Documentos/Ai%20Labs/Clases/Sesi%C3%B3n%2013%20cuatro%20proyectos/Proyecto%203%20Regresi%C3%B3n%20ML/mlruns/0/c6236d3f46994efe879730c21dcd3cd9/artifacts
+end_time: 1726885980077
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6236d3f46994efe879730c21dcd3cd9
+run_name: kindly-squid-873
+run_uuid: c6236d3f46994efe879730c21dcd3cd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726885972472
+status: 3
+tags: []
+user_id: cesar

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Documentos/Ai%20Labs/Clases/Sesi%C3%B3n%2013%20cuatro%20proyectos/Proyecto%203%20Regresi%C3%B3n%20ML/mlruns/0/4a0fbd5cbffc4bf48626701d103d71ac/artifacts
+end_time: 1726886783355
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a0fbd5cbffc4bf48626701d103d71ac
+run_name: amusing-steed-984
+run_uuid: 4a0fbd5cbffc4bf48626701d103d71ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726886778340
+status: 3
+tags: []
+user_id: cesar
