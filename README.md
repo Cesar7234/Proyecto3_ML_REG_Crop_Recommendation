@@ -61,5 +61,15 @@ Si deseas contribuir al proyecto, por favor sigue los siguientes pasos:
 4. Haz push de la rama (git push origin feature/nueva-caracteristica).
 5. Crea un nuevo Pull Request.
 
+Para ejecutar este proyecto usando Docker:
+
+1. Descarga la imagen:
+docker pull cesar723/crop-prediction-app:latest
+
+2. Ejecuta el contenedor:
+docker run -p 8000:8000 cesar723/crop-prediction-app
+
+3. Accede a la API en `http://localhost:8000/docs`
+
 Licencia
 Este proyecto está bajo la licencia MIT.

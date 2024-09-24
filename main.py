@@ -10,9 +10,9 @@ from sklearn.preprocessing import StandardScaler
 app = FastAPI()
 
 # Cargar el modelo, escalador y LabelEncoder
-model = joblib.load("D:/Documentos/Ai Labs/Clases/Sesión 13 cuatro proyectos/Proyecto 3 Regresión ML/decision_tree_model.pkl")
-scaler = joblib.load("D:/Documentos/Ai Labs/Clases/Sesión 13 cuatro proyectos/Proyecto 3 Regresión ML/scaler.pkl")
-label_encoder = joblib.load("D:/Documentos/Ai Labs/Clases/Sesión 13 cuatro proyectos/Proyecto 3 Regresión ML/label_encoder.pkl")
+model = joblib.load("decision_tree_model.pkl")
+scaler = joblib.load("scaler.pkl")
+label_encoder = joblib.load("label_encoder.pkl")
 
 # Definir el formato de entrada de datos basado en las características del dataset de Crop Recommendation
 class PredictionInput(BaseModel):
